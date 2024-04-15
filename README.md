@@ -4,4 +4,4 @@
 
 <p align="justify">In order to learn C# and Unity, I took a 250-hour in-person Unity game development course and I have been trying to improve myself for almost one year.</p>
 
-<p align="justify">⚡ Keep in mind that some of these public repositories are old. My coding skills have improved! Feel free to ask me for access to my private repositories for code review.</p>
+<p align="justify">⚡ Keep in mind that some of these public repositories are old. My coding skills have improved, I promise! Feel free to ask me for access to my private repositories for code review.</p>
